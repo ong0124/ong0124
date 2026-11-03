@@ -41,5 +41,5 @@ Designed, built and deployed a booking platform end to end, including admin tool
 
 **LinkedIn:** https://www.linkedin.com/in/ltong-8741a7284
 
-**EMAIL:** (mailto:l.t.ong0124@gmail.com)
+**EMAIL:** l.t.ong0124@gmail.com
 
