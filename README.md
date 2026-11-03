@@ -40,4 +40,5 @@ Designed, built and deployed a booking platform end to end, including admin tool
 ## Contact
 
 ** LinkedIn ** --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ltong-8741a7284 )
-** EMAIL ** --> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
+
+** EMAIL ** --> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:l.t.ong0124@gmail.com)
