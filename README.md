@@ -30,7 +30,6 @@ Friends call me **AH WANG/AH ONG**.
 |---|---|---|
 | [**Pet Care App**](link-to-repo) | Android app for pet supplies, boarding and hospital services (final-year project) | Flutter, Dart, [backend] |
 | **Shuttle Booking Platform** *(private)* | Booking system with customer-facing flow, admin platform and LINE integration; I built and deployed it solo | Nuxt 3, Node.js, MySQL, Redis, AWS, Docker |
-| [**Project 3**](link-to-repo) | [One-line description] | [Stack] |
 
 ## Experience
 
@@ -40,5 +39,5 @@ Designed, built and deployed a booking platform end to end, including admin tool
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
+** LinkedIn ** --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ltong-8741a7284 )
+** EMAIL ** --> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
